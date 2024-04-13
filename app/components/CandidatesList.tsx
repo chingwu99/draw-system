@@ -66,7 +66,7 @@ const CandidatesList = () => {
                 <CandidateItem key={candidate.key} candidate={candidate} />
               ))
             ) : (
-              <p className="m-auto">目前沒有候選人</p>
+              <p className="m-auto">目前沒有抽獎人員</p>
             )}
           </div>
         </CardContent>

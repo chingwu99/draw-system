@@ -29,7 +29,7 @@ const Timer = () => {
       });
     if (candidates.length === 0)
       return Swal.fire({
-        title: "請輸入至少一個候選人",
+        title: "請輸入至少一個抽獎人員",
         confirmButtonText: "確認",
       });
 
