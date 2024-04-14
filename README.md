@@ -10,8 +10,6 @@ https://draw-system.vercel.app/
 
 ## Installation
 
-Install my-project with npm
-
 ```bash
   $ git clone https://github.com/chingwu99/draw-system.git
   $ cd draw-system
